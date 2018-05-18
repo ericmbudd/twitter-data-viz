@@ -86,6 +86,9 @@ celerybeat-schedule
 .venv
 venv/
 ENV/
+inputapi.py
+creds/
+next_tokens/
 
 # Spyder project settings
 .spyderproject
@@ -103,3 +106,10 @@ ENV/
 # Junk
 .DS_Store
 .idea/
+
+
+#data
+friends/
+followers/
+followers_userinfo/
+*.csv
